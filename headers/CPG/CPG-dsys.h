@@ -5,7 +5,7 @@
  *
  * Provides a set of inline utility functions for performing
  * basic file and directory operations such as creation, deletion, existence 
- * checking, and copying. It supports both Windows and POSIX-compliant systems.
+ * checking. It supports both Windows and POSIX-compliant systems.
  *
  * Namespace: CPG_dsys
  *
